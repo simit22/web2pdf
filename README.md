@@ -2,6 +2,8 @@
 
 A CLI tool to extract a part of a website, create a PDF
 
+(new version now support  both class and id , even some styling )
+
 ------
 
 > let me tell u a really fun story
@@ -20,7 +22,7 @@ A CLI tool to extract a part of a website, create a PDF
 it is totally cool u just give it
 
 1. **web page** 
-2. **the part that contain novel or anything (id)**
+2. **the part that contain novel or anything ( id or class )**
 
 and it do the job
 it make all of it to a  ***perfect pdf*** 
