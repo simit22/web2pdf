@@ -54,13 +54,14 @@ if u wanna compile it yourself
 
 4. install dependancies 
 
-   `pip install requests beautifulsoup4 reportlab`  
+   `pip install requests beautifulsoup4 reportlab weasyprint`
+   also install imagemagick
 
-5. run and enjoy using python 
+6. run and enjoy using python 
 
    `python web2pdf.py`
 
-6. u can even make build its binary  yourself it is easy
+7. u can even make build its binary  yourself it is easy
 
     
 
