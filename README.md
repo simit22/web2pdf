@@ -55,6 +55,7 @@ if u wanna compile it yourself
 4. install dependancies 
 
    `pip install requests beautifulsoup4 reportlab weasyprint`
+   
    also install imagemagick
 
 6. run and enjoy using python 
